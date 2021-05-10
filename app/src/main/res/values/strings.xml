@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GrpPj</string>
+    <string name="HKO_GLOBAL_API">https://data.weather.gov.hk/weatherAPI/opendata/weather.php?dataType=flw&amp;lang=tc</string>
+    <string name="HKO_9DAYS_API">https://data.weather.gov.hk/weatherAPI/opendata/weather.php?dataType=fnd&amp;lang=tc</string>
+    <string name="HKO_CURRENT_WEATHER_API">https://data.weather.gov.hk/weatherAPI/opendata/weather.php?dataType=rhrread&amp;lang=tc</string>
+    <string name="HKO_CURRENT_WEATHER_ICON_URL">https://www.hko.gov.hk/images/HKOWxIconOutline/pic{ICON}.png</string>
+    <string name="current_weather_title">現時氣溫</string>
+    <string name="general_situation_title">天氣概況</string>
+    <string name="forecast_desc_title">今晚及明日天氣預測</string>
+    <string name="humidity_title">濕度</string>
+    <string name="outlook_title">展望</string>
+</resources>
